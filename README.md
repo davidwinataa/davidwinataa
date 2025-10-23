@@ -13,9 +13,9 @@
 - **Business Intelligence**
 - **Data Warehousing & Dimensional Modeling**
 - **UI/UX Design Principles**
-- **BPMN, ERD, Database Modeling**
+- **ERD, Database Modeling**
 - **Web Development**
-- **Odoo (ERP), SQL, Figma**
+- **SQL, PostgreSQL, Figma**
 
 ---
 
